@@ -8,6 +8,6 @@
 
 ### 강준서 pobyjun@naver.com
 
-### 김성민
+### 김성민 alstjdrla78@gmail.com
 
 # 구성원 이메일 작업 완료
