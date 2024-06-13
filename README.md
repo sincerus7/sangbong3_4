@@ -8,4 +8,4 @@
 
 ### 강준서 pobyjun@naver.com
 
-### 김성민
+### 김성민 alstjdrla78@gmail.com
