@@ -4,7 +4,7 @@
 
 ### 박선우 tjsdn8963@naver.com
 
-### 김민준
+### 김민준 yym5066666666@gmail.com
 
 ### 강준서 pobyjun@naver.com
 
