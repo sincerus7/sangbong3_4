@@ -1,0 +1,21 @@
+<7장 확인문제>
+
+1번 - 1
+2번 - 2
+3번 - 1
+4번 - 4
+5번 - 2
+6번 - this.name = name; 을 super
+
+7번 - Parent(String nation) call
+Parent() call
+Child(String name) call
+Child() call
+
+8번 - 스노우 타이어가 굴러갑니다
+스노우 타이어가 굴러갑니다
+
+9번 - 2
+10번 - work() 추상 메소드를 재정의(오버라이딩) 하지 않아서
+11번 - super
+12번 - a instanceof C c
